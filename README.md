@@ -7,10 +7,10 @@ Children's Social Care Demand Model on binder.
 
 For more detailed information, see:
 
-https://github.com/SocialFinanceDigitalLabs/csdm-py
+https://github.com/SocialFinanceDigitalLabs/cs-demand-model
 
 To get started, just click [launch][launch] to header over to [Binder][binder].
 
 
-[launch]: https://mybinder.org/v2/gh/SocialFinanceDigitalLabs/csdmpy-binder/HEAD?labpath=start-here.ipynb
+[launch]: https://mybinder.org/v2/gh/SocialFinanceDigitalLabs/cs-demand-model-binder/HEAD?labpath=start-here.ipynb
 [binder]: https://mybinder.org
